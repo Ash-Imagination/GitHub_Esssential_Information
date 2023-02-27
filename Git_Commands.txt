@@ -1,0 +1,19 @@
+
+1. git config user.name
+Ash-Imagination
+	
+2. git config user.email
+2016100000124@seu.edu.bd
+
+3.
+git config --global user.name "Ash-Imagination"
+git config --global user.email "2016100000124@seu.edu.bd"
+git config --global user.password "123asdfghJ&"
+
+4.Ami jodi repository theke kono file delete kori ba kono changes kori
+  than ami jodi gitbash theke kono kichu push korte chai,
+  tahole prothome amk gitbash theke PULL nie update hote hobe.
+  than ami kono kichu push dite parbo
+
+
+
