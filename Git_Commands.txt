@@ -14,6 +14,8 @@ git config --global user.password "123asdfghJ&"
   than ami jodi gitbash theke kono kichu push korte chai,
   tahole prothome amk gitbash theke PULL nie update hote hobe.
   than ami kono kichu push dite parbo
+5. git stash apply
+6. $ git branch -M main
 
 
 
