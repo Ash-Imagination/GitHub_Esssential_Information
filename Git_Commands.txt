@@ -188,6 +188,13 @@ Turn off this advice by setting config variable advice.detachedHead to false
 HEAD is now at fa9d0be addd
 
 
+================GIT Ignore================
+------------------------------------------
+1.  .gitignore
+
+    *.txt     Jei extension file ke remote a nite chai
+   !Git_Commands.txt  jei file ke remote a nite chai
+   IgnoreFolder/	jei folder ke remote a nite na chai
 =======================================================
 9. Jokhn e amra commit kore Local Repo te nibo --Tokhn  e amra version control korte parbo
    ager jaigai fire jete parbo
